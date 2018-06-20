@@ -3,7 +3,7 @@ import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
 import * as userAction from '../../actions/user';
 import { User } from "../../components";
-class UserApp extends Component{
+class UserApp extends Component {
     constructor(props){
         super(props)
     }

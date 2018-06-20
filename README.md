@@ -1,7 +1,10 @@
 # ant.design-react-redux
 
-## npm install
+## 安装
+    $ npm install
 
-## npm start
+## 运行
+    $ npm start
 
-## npm build 
+## 打包
+    $ npm build 
